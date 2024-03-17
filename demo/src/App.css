@@ -1,0 +1,180 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.main{
+    background-color: #005aa8;
+    width: 100vw;
+    height: 100%;
+    
+}
+.dashboardbg{
+    background-color: #6db0eb;
+}
+.userbg{
+    background-color: #6db0eb;
+    height: 100vh;
+}
+.dashboard{
+      padding:20px;
+
+}
+
+.insertbg{
+     margin-top: 6px;
+}
+.label{
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.table{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableSize{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.forget-password{
+    color: gray;
+    font-size: small;
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.text-field{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: gray;
+    background-color: #fff;
+    width: 300px;
+    display: block;
+    
+
+}
+.font{
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.loginbtn{
+    float: right;
+}
+
+.insertbtn{
+    display: flex;
+}
+
+.clear{
+    margin-left: 6px;
+}
+
+.btn{
+    background-color: #005aa8;
+    font-size: 12px;
+    padding: 10px 20px;
+    /* margin: 5px; */
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh;
+    flex-direction: column;
+    
+    
+}
+
+.account{
+    margin-top: 4px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cont-1{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.section{
+    display: flex;
+    flex-direction: row;
+}
+
+.login{
+    background-color: #fff;
+    
+}
+
+.start{
+    background-color: #3a97e8;
+}
+
+.login-div{
+    margin: 50px;
+}
+
+.initial-text{
+    margin: 30px;
+    color: #fff;
+}
+
+.welcome{
+    font-size: x-large;
+    text-align: center;
+}
+
+.tick-icon{
+    width: 12px;
+    height: 12px;
+    margin-right: 4px;
+}
+
+.online{
+    padding-top: 2px;
+    text-align: center;
+}
+
+.info{
+    padding-top: 15px;
+}
+
+.acc-info{
+    color: #fff;
+}
+
+.acc-contact{
+    color: #3a97e8;
+}
+
+.insert{
+    float:right
+}
+
+.errorclr{
+    color:red;
+    font-size: large;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.space{
+    margin-top: 15px;
+}
+
+
